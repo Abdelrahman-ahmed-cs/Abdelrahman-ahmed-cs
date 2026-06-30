@@ -112,6 +112,23 @@ architecture, teaching what I learn, and writing code other people are happy to 
 
 </div>
 
+<!-- ===================== OPEN SOURCE TOOLS ===================== -->
+## 🌍 Open-Source Tools I've Shipped
+
+> Free, privacy-first web apps that solve real everyday problems. Each runs 100%
+> in your browser — no servers, no tracking, no cost — and is live right now.
+
+<div align="center">
+
+| Tool | The problem it solves | Try it live |
+|------|-----------------------|-------------|
+| **🔒 [Private PDF](https://github.com/Abdelrahman-ahmed-cs/private-pdf)** | People upload sensitive contracts & IDs to sketchy "free PDF" sites. This merges/splits/rotates PDFs entirely in your browser — nothing is uploaded. | **[Open ↗](https://abdelrahman-ahmed-cs.github.io/private-pdf/)** |
+| **🛡️ [Scam Shield](https://github.com/Abdelrahman-ahmed-cs/scam-shield)** | Phishing links & scam texts drain money from people daily. Paste one and get a plain-language report of the warning signs. | **[Open ↗](https://abdelrahman-ahmed-cs.github.io/scam-shield/)** |
+| **📍 [MetaWipe](https://github.com/Abdelrahman-ahmed-cs/metawipe)** | Photos secretly store your GPS home location. This shows it, then strips it out — losslessly. | **[Open ↗](https://abdelrahman-ahmed-cs.github.io/metawipe/)** |
+| **📖 [Clear Reader](https://github.com/Abdelrahman-ahmed-cs/clear-reader)** | The web is hard to read with dyslexia / low vision. Reformat any text with friendly fonts, spacing & read-aloud. | **[Open ↗](https://abdelrahman-ahmed-cs.github.io/clear-reader/)** |
+
+</div>
+
 <!-- ===================== FEATURED PROJECTS ===================== -->
 ## 🚀 Things I've Built
 
