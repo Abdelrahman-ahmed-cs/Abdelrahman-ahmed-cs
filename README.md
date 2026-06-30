@@ -11,7 +11,7 @@
 <div align="center">
 
 <a href="https://github.com/Abdelrahman-ahmed-cs">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=220&section=header&text=Abdelrahman%20Ahmed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20Student%20%E2%80%A2%20Full-Stack%20%26%20ML%20Builder&descAlignY=62&descSize=18&reload=1" width="100%" alt="Abdelrahman Ahmed"/>
+  <img src="https://raw.githubusercontent.com/Abdelrahman-ahmed-cs/Abdelrahman-ahmed-cs/main/assets/header.svg" width="100%" alt="Abdelrahman Ahmed — Computer Science Student, Full-Stack & ML Builder"/>
 </a>
 
 <!-- Typing animation -->

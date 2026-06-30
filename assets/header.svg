@@ -1,0 +1,45 @@
+<svg width="1200" height="240" viewBox="0 0 1200 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Abdelrahman Ahmed — Computer Science Student, Full-Stack and ML Builder">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8E2DE2">
+        <animate attributeName="stop-color" values="#8E2DE2;#4A00E0;#00C9FF;#8E2DE2" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#4A00E0">
+        <animate attributeName="stop-color" values="#4A00E0;#00C9FF;#8E2DE2;#4A00E0" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#00C9FF">
+        <animate attributeName="stop-color" values="#00C9FF;#8E2DE2;#4A00E0;#00C9FF" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <clipPath id="round"><rect width="1200" height="240" rx="0"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <!-- Animated gradient background -->
+    <rect width="1200" height="240" fill="url(#grad)"/>
+
+    <!-- Soft floating blobs for depth -->
+    <circle cx="120" cy="60" r="90" fill="#ffffff" opacity="0.06">
+      <animate attributeName="cy" values="60;90;60" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1080" cy="190" r="120" fill="#ffffff" opacity="0.05">
+      <animate attributeName="cy" values="190;160;190" dur="7s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Wavy bottom band -->
+    <path fill="#0D1117" opacity="0.9" d="M0,200 C200,170 400,230 600,200 C800,170 1000,230 1200,200 L1200,240 L0,240 Z">
+      <animate attributeName="d"
+        values="M0,200 C200,170 400,230 600,200 C800,170 1000,230 1200,200 L1200,240 L0,240 Z;
+                M0,200 C200,230 400,170 600,200 C800,230 1000,170 1200,200 L1200,240 L0,240 Z;
+                M0,200 C200,170 400,230 600,200 C800,170 1000,230 1200,200 L1200,240 L0,240 Z"
+        dur="9s" repeatCount="indefinite"/>
+    </path>
+
+    <!-- Name + subtitle (fade in) -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
+      <text x="600" y="110" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="800" fill="#ffffff" letter-spacing="1">Abdelrahman Ahmed</text>
+      <text x="600" y="155" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="20" font-weight="500" fill="#E8E0FF" opacity="0.95">Computer Science Student &#8226; Full-Stack &amp; ML Builder</text>
+    </g>
+  </g>
+</svg>
