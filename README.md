@@ -126,6 +126,7 @@ architecture, teaching what I learn, and writing code other people are happy to 
 | **🛡️ [Scam Shield](https://github.com/Abdelrahman-ahmed-cs/scam-shield)** | Phishing links & scam texts drain money from people daily. Paste one and get a plain-language report of the warning signs. | **[Open ↗](https://abdelrahman-ahmed-cs.github.io/scam-shield/)** |
 | **📍 [MetaWipe](https://github.com/Abdelrahman-ahmed-cs/metawipe)** | Photos secretly store your GPS home location. This shows it, then strips it out — losslessly. | **[Open ↗](https://abdelrahman-ahmed-cs.github.io/metawipe/)** |
 | **📖 [Clear Reader](https://github.com/Abdelrahman-ahmed-cs/clear-reader)** | The web is hard to read with dyslexia / low vision. Reformat any text with friendly fonts, spacing & read-aloud. | **[Open ↗](https://abdelrahman-ahmed-cs.github.io/clear-reader/)** |
+| **🖊️ [PDF Studio](https://github.com/Abdelrahman-ahmed-cs/pdf-studio)** | Editing PDFs costs money or risks privacy. A free Acrobat-style editor: annotate, organize pages, merge & sign — all in your browser. | **[Open ↗](https://abdelrahman-ahmed-cs.github.io/pdf-studio/)** |
 
 </div>
 
